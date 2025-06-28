@@ -46,4 +46,4 @@ I’m truly grateful for this learning experience and look forward to building m
 ## 🔗 Repository
 
 Feel free to explore the code, try out the games, and share feedback!  
-[GitHub Repo](https://github.com/nisha-venkatesan/c)
+[GitHub Repo](https://github.com/nisha-venkatesan/Internpe-Java_Internship.git)
